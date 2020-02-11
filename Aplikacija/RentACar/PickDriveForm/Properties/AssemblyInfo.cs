@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("CassandraDataLayer")]
+[assembly: AssemblyTitle("PickDriveForm")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("CassandraDataLayer")]
+[assembly: AssemblyProduct("PickDriveForm")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("bde7a40b-dc5d-4652-a834-5524e0645853")]
+[assembly: Guid("3bc851a9-91d8-4574-bcad-b5bc9fdcdbef")]
 
 // Version information for an assembly consists of the following four values:
 //
